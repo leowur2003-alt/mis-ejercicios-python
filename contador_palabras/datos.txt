@@ -1,0 +1,11 @@
+carpeta que se llama mi_texto.txt (tiene una flechita al lado) y, dentro de 
+esa carpeta, parece que está el archivo real. Python no puede "leer" una 
+carpeta como si fuera texto, por eso te da error.
+Cómo arreglarlo ahora mismo:
+Mueve el archivo: Arrastra el archivo que está dentro de esa carpeta hacia 
+afuera, para que quede directamente dentro de contador_palabras.
+Borra la carpeta vacía: Haz clic derecho en la carpeta mi_texto.txt y selecciona 
+"Delete" para que no nos confunda más.
+Crea el archivo correctamente: Si no tienes el archivo, haz clic en el icono 
+de "Nuevo Archivo" (el que tiene un símbolo +) dentro de la carpeta 
+contador_palabras y llámalo datos.txt. Escribe algo adentro y guárdalo.

@@ -1,0 +1,12 @@
+--- Columna1 ---
+Media: 35.0
+Mediana: 35.0
+Desviación estándar: 18.708286933869708
+
+--- Columna2 ---
+Media: 88.33333333333333
+Mediana: 92.5
+Desviación estándar: 46.76180777800048
+
+Regresión lineal (Columna1 -> Columna2):
+y = 2.4857x + 1.3333
